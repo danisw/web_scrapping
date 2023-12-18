@@ -7,11 +7,6 @@ $client = new Client();
 
 $crawler = $client->request('GET','https://www.its.ac.id/admission/sarjana/sm/#biaya-pendidikan');
 
-//$html = file_get_contents('https://books.toscrape.com/');
-//echo $html;
-
-//echo $crawler->filterXPath('//title')->text();
-
 global $data;
 $file = fopen("data_spi_its.csv","a");
 $data = $crawler->filter('div.table-responsive')->each(function ($node) use ($file) {
@@ -72,38 +67,4 @@ foreach($filtered_data as $data2){
         
 }
     
-    //ke Csv
-    //var_dump ($data2);
-    //fputcsv($file, [$fakultas, $prodi, $spi, $spa_2, $spa_3, $spa_4, $spa_5, $spa_6]);
-
-/*
-//Koneksi ke mySQL
-$servername = "localhost";
-$username = "user";
-$password = "";
-
-// Create connection
-$conn = new mysqli($servername, $username, $password);
-
-// Check connection
-if ($conn->connect_error) {
-  die("Connection failed: " . $conn->connect_error);
-}
-echo "Connected successfully";
-**/
-
-//Insert data ke mySQL
-/**$row = 1;
-if (($handle = fopen("data.csv", "r")) !== FALSE) {
-    while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
-        $num = count($data);
-        echo " $num fields in line $row: \n";
-        $row++;
-        for ($c=0; $c < $num; $c++) {
-            echo $data[$c] . "\n";
-        }
-    }
-    fclose($handle);
-    
-}
-**/
+// tugasnya menambahkan judul untuk tiap kolom di csv nya
