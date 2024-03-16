@@ -1,43 +1,44 @@
-Fakultas Sains dan Analitika Data,Fisika,20.000.000,4.000.000,4.000.000,4.000.000,4.000.000,4.000.000
-x,Matematika,25.000.000,5.000.000,5.000.000,5.000.000,5.000.000,5.000.000
-x,Statistika,25.000.000,5.000.000,5.000.000,5.000.000,5.000.000,5.000.000
-x,Kimia,25.000.000,5.000.000,5.000.000,5.000.000,5.000.000,5.000.000
-x,Biologi,20.000.000,4.000.000,4.000.000,4.000.000,4.000.000,4.000.000
-x,Sains Aktuaria,25.000.000,5.000.000,5.000.000,5.000.000,5.000.000,5.000.000
-x,Sains Analitik dan Instrumentasi Kimia,25.000.000,5.000.000,5.000.000,5.000.000,5.000.000,5.000.000
-x,Sains Data,20.000.000,4.000.000,4.000.000,4.000.000,4.000.000,4.000.000
-Fakultas Teknologi Industri dan Rekayasa Sistem,Teknik Mesin,37.500.000,7.500.000,7.500.000,7.500.000,7.500.000,7.500.000
-x,Teknik Kimia,37.500.000,7.500.000,7.500.000,7.500.000,7.500.000,7.500.000
-x,Teknik Fisika,37.500.000,7.500.000,7.500.000,7.500.000,7.500.000,7.500.000
-x,Teknik Industri,37.500.000,7.500.000,7.500.000,7.500.000,7.500.000,7.500.000
-x,Teknik Material,37.500.000,7.500.000,7.500.000,7.500.000,7.500.000,7.500.000
-x,Teknik Pangan,25.000.000,5.000.000,5.000.000,5.000.000,5.000.000,5.000.000
-"Fakultas Teknik Sipil, Perencanaan, dan Kebumian",Teknik Sipil,37.500.000,7.500.000,7.500.000,7.500.000,7.500.000,7.500.000
-x,Arsitektur,37.500.000,7.500.000,7.500.000,7.500.000,7.500.000,7.500.000
-x,Teknik Lingkungan,37.500.000,7.500.000,7.500.000,7.500.000,7.500.000,7.500.000
-x,Perencanaan Wilayah dan Kota,37.500.000,7.500.000,7.500.000,7.500.000,7.500.000,7.500.000
-x,Teknik Geomatika,30.000.000,6.000.000,6.000.000,6.000.000,6.000.000,6.000.000
-x,Teknik Geofisika,30.000.000,6.000.000,6.000.000,6.000.000,6.000.000,6.000.000
-Fakultas Teknologi Kelautan,Teknik Perkapalan,25.000.000,5.000.000,5.000.000,5.000.000,5.000.000,5.000.000
-x,Joint Degree Teknik Perkapalan,37.500.000,7.500.000,7.500.000,7.500.000,7.500.000,7.500.000
-x,Teknik Sistem Perkapalan,25.000.000,5.000.000,5.000.000,5.000.000,5.000.000,5.000.000
-x,Joint Degree Teknik Sistem Perkapalan,37.500.000,7.500.000,7.500.000,7.500.000,7.500.000,7.500.000
-x,Teknik Kelautan,25.000.000,5.000.000,5.000.000,5.000.000,5.000.000,5.000.000
-x,Teknik Transportasi Laut,25.000.000,5.000.000,5.000.000,5.000.000,5.000.000,5.000.000
-x,Teknik Lepas Pantai,25.000.000,5.000.000,5.000.000,5.000.000,5.000.000,5.000.000
-Fakultas Teknologi Elektro dan Informatika Cerdas,Teknik Elektro,37.500.000,7.500.000,7.500.000,7.500.000,7.500.000,7.500.000
-x,Teknik Biomedik,37.500.000,7.500.000,7.500.000,7.500.000,7.500.000,7.500.000
-x,Teknik Komputer,37.500.000,7.500.000,7.500.000,7.500.000,7.500.000,7.500.000
-x,Teknik Informatika,37.500.000,7.500.000,7.500.000,7.500.000,7.500.000,7.500.000
-x,Sistem Informasi,37.500.000,7.500.000,7.500.000,7.500.000,7.500.000,7.500.000
-x,Teknologi Informasi,37.500.000,7.500.000,7.500.000,7.500.000,7.500.000,7.500.000
-x,Teknik Telekomunikasi,25.000.000,5.000.000,5.000.000,5.000.000,5.000.000,5.000.000
-x,Inovasi Digital,25.000.000,5.000.000,5.000.000,5.000.000,5.000.000,5.000.000
-x,Rekayasa Kecerdasan Artifisial,25.000.000,5.000.000,5.000.000,5.000.000,5.000.000,5.000.000
-x,Rekayasa Perangkat Lunak,25.000.000,5.000.000,5.000.000,5.000.000,5.000.000,5.000.000
-Fakultas Desain Kreatif dan Bisnis Digital,Desain Produk Industri,37.500.000,7.500.000,7.500.000,7.500.000,7.500.000,7.500.000
-x,Desain Interior,37.500.000,7.500.000,7.500.000,7.500.000,7.500.000,7.500.000
-x,Desain Komunikasi Visual,37.500.000,7.500.000,7.500.000,7.500.000,7.500.000,7.500.000
-x,Manajemen Bisnis,37.500.000,7.500.000,7.500.000,7.500.000,7.500.000,7.500.000
-x,Studi Pembangunan,15.000.000,3.000.000,3.000.000,3.000.000,3.000.000,3.000.000
-Fakultas Kedokteran dan Kesehatan,Teknologi Kedokteran,25.000.000,5.000.000,5.000.000,5.000.000,5.000.000,5.000.000
+Fakultas,Jurusan,spi,spa_2,spa_3,spa_3,spa_4,spa_5,spa_6
+"Fakultas Sains dan Analitika Data",Fisika,20.000.000,4.000.000,4.000.000,4.000.000,4.000.000,4.000.000
+"Fakultas Sains dan Analitika Data",Matematika,25.000.000,5.000.000,5.000.000,5.000.000,5.000.000,5.000.000
+"Fakultas Sains dan Analitika Data",Statistika,25.000.000,5.000.000,5.000.000,5.000.000,5.000.000,5.000.000
+"Fakultas Sains dan Analitika Data",Kimia,25.000.000,5.000.000,5.000.000,5.000.000,5.000.000,5.000.000
+"Fakultas Sains dan Analitika Data",Biologi,20.000.000,4.000.000,4.000.000,4.000.000,4.000.000,4.000.000
+"Fakultas Sains dan Analitika Data","Sains Aktuaria",25.000.000,5.000.000,5.000.000,5.000.000,5.000.000,5.000.000
+"Fakultas Sains dan Analitika Data","Sains Analitik dan Instrumentasi Kimia",25.000.000,5.000.000,5.000.000,5.000.000,5.000.000,5.000.000
+"Fakultas Sains dan Analitika Data","Sains Data",20.000.000,4.000.000,4.000.000,4.000.000,4.000.000,4.000.000
+"Fakultas Teknologi Industri dan Rekayasa Sistem","Teknik Mesin",37.500.000,7.500.000,7.500.000,7.500.000,7.500.000,7.500.000
+"Fakultas Teknologi Industri dan Rekayasa Sistem","Teknik Kimia",37.500.000,7.500.000,7.500.000,7.500.000,7.500.000,7.500.000
+"Fakultas Teknologi Industri dan Rekayasa Sistem","Teknik Fisika",37.500.000,7.500.000,7.500.000,7.500.000,7.500.000,7.500.000
+"Fakultas Teknologi Industri dan Rekayasa Sistem","Teknik Industri",37.500.000,7.500.000,7.500.000,7.500.000,7.500.000,7.500.000
+"Fakultas Teknologi Industri dan Rekayasa Sistem","Teknik Material",37.500.000,7.500.000,7.500.000,7.500.000,7.500.000,7.500.000
+"Fakultas Teknologi Industri dan Rekayasa Sistem","Teknik Pangan",25.000.000,5.000.000,5.000.000,5.000.000,5.000.000,5.000.000
+"Fakultas Teknik Sipil, Perencanaan, dan Kebumian","Teknik Sipil",37.500.000,7.500.000,7.500.000,7.500.000,7.500.000,7.500.000
+"Fakultas Teknik Sipil, Perencanaan, dan Kebumian",Arsitektur,37.500.000,7.500.000,7.500.000,7.500.000,7.500.000,7.500.000
+"Fakultas Teknik Sipil, Perencanaan, dan Kebumian","Teknik Lingkungan",37.500.000,7.500.000,7.500.000,7.500.000,7.500.000,7.500.000
+"Fakultas Teknik Sipil, Perencanaan, dan Kebumian","Perencanaan Wilayah dan Kota",37.500.000,7.500.000,7.500.000,7.500.000,7.500.000,7.500.000
+"Fakultas Teknik Sipil, Perencanaan, dan Kebumian","Teknik Geomatika",30.000.000,6.000.000,6.000.000,6.000.000,6.000.000,6.000.000
+"Fakultas Teknik Sipil, Perencanaan, dan Kebumian","Teknik Geofisika",30.000.000,6.000.000,6.000.000,6.000.000,6.000.000,6.000.000
+"Fakultas Teknologi Kelautan","Teknik Perkapalan",25.000.000,5.000.000,5.000.000,5.000.000,5.000.000,5.000.000
+"Fakultas Teknologi Kelautan","Joint Degree Teknik Perkapalan",37.500.000,7.500.000,7.500.000,7.500.000,7.500.000,7.500.000
+"Fakultas Teknologi Kelautan","Teknik Sistem Perkapalan",25.000.000,5.000.000,5.000.000,5.000.000,5.000.000,5.000.000
+"Fakultas Teknologi Kelautan","Joint Degree Teknik Sistem Perkapalan",37.500.000,7.500.000,7.500.000,7.500.000,7.500.000,7.500.000
+"Fakultas Teknologi Kelautan","Teknik Kelautan",25.000.000,5.000.000,5.000.000,5.000.000,5.000.000,5.000.000
+"Fakultas Teknologi Kelautan","Teknik Transportasi Laut",25.000.000,5.000.000,5.000.000,5.000.000,5.000.000,5.000.000
+"Fakultas Teknologi Kelautan","Teknik Lepas Pantai",25.000.000,5.000.000,5.000.000,5.000.000,5.000.000,5.000.000
+"Fakultas Teknologi Elektro dan Informatika Cerdas","Teknik Elektro",37.500.000,7.500.000,7.500.000,7.500.000,7.500.000,7.500.000
+"Fakultas Teknologi Elektro dan Informatika Cerdas","Teknik Biomedik",37.500.000,7.500.000,7.500.000,7.500.000,7.500.000,7.500.000
+"Fakultas Teknologi Elektro dan Informatika Cerdas","Teknik Komputer",37.500.000,7.500.000,7.500.000,7.500.000,7.500.000,7.500.000
+"Fakultas Teknologi Elektro dan Informatika Cerdas","Teknik Informatika",37.500.000,7.500.000,7.500.000,7.500.000,7.500.000,7.500.000
+"Fakultas Teknologi Elektro dan Informatika Cerdas","Sistem Informasi",37.500.000,7.500.000,7.500.000,7.500.000,7.500.000,7.500.000
+"Fakultas Teknologi Elektro dan Informatika Cerdas","Teknologi Informasi",37.500.000,7.500.000,7.500.000,7.500.000,7.500.000,7.500.000
+"Fakultas Teknologi Elektro dan Informatika Cerdas","Teknik Telekomunikasi",25.000.000,5.000.000,5.000.000,5.000.000,5.000.000,5.000.000
+"Fakultas Teknologi Elektro dan Informatika Cerdas","Inovasi Digital",25.000.000,5.000.000,5.000.000,5.000.000,5.000.000,5.000.000
+"Fakultas Teknologi Elektro dan Informatika Cerdas","Rekayasa Kecerdasan Artifisial",25.000.000,5.000.000,5.000.000,5.000.000,5.000.000,5.000.000
+"Fakultas Teknologi Elektro dan Informatika Cerdas","Rekayasa Perangkat Lunak",25.000.000,5.000.000,5.000.000,5.000.000,5.000.000,5.000.000
+"Fakultas Desain Kreatif dan Bisnis Digital","Desain Produk Industri",37.500.000,7.500.000,7.500.000,7.500.000,7.500.000,7.500.000
+"Fakultas Desain Kreatif dan Bisnis Digital","Desain Interior",37.500.000,7.500.000,7.500.000,7.500.000,7.500.000,7.500.000
+"Fakultas Desain Kreatif dan Bisnis Digital","Desain Komunikasi Visual",37.500.000,7.500.000,7.500.000,7.500.000,7.500.000,7.500.000
+"Fakultas Desain Kreatif dan Bisnis Digital","Manajemen Bisnis",37.500.000,7.500.000,7.500.000,7.500.000,7.500.000,7.500.000
+"Fakultas Desain Kreatif dan Bisnis Digital","Studi Pembangunan",15.000.000,3.000.000,3.000.000,3.000.000,3.000.000,3.000.000
+"Fakultas Kedokteran dan Kesehatan","Teknologi Kedokteran",25.000.000,5.000.000,5.000.000,5.000.000,5.000.000,5.000.000

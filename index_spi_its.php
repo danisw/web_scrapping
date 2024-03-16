@@ -8,6 +8,7 @@ $client = new Client();
 $crawler = $client->request('GET','https://www.its.ac.id/admission/sarjana/sm/#biaya-pendidikan');
 
 global $data;
+global $last_fakultas;
 $file = fopen("data_spi_its.csv","a");
 $data = $crawler->filter('div.table-responsive')->each(function ($node) use ($file) {
 
@@ -32,17 +33,20 @@ foreach($data as $dt){
 //tambahkan judul
 $title = ["Fakultas","Jurusan","spi","spa_2","spa_3","spa_3","spa_4","spa_5","spa_6"];
     array_unshift($filtered_data, $title);
-//var_dump($filtered_data);
+var_dump($filtered_data);
 
 
 //ambil nilai tiap array
 $file = fopen("data_spi.csv","a");
 
+//tambahkan judul
+fputcsv($file, $title);
+
 foreach($filtered_data as $data2){
     //var_dump($data2); 
         // kalo 7 pake departemen, kalo 8 pake fakultas juga
         if( count($data2) == 7 ){
-            $fakultas  = 'x';
+            $fakultas  = $last_fakultas;
             $prodi  = $data2[0];
             $spi  = $data2[1];
             $spa_2  = $data2[2];
@@ -55,6 +59,7 @@ foreach($filtered_data as $data2){
         }else if (count($data2) == 8){
             
             $fakultas  = $data2[0];
+            $last_fakultas = $fakultas;
             $prodi  = $data2[1];
             $spi  = $data2[2];
             $spa_2  = $data2[3];
